@@ -13,15 +13,15 @@ header ul li{
 
 .sol{
     float: left;
-    margin-left: 30px;
-    margin-top: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
     
     
 }
 .sağ{
     float: right;
-    margin-right: 30px;
-    margin-top: 50px;
+    margin-right: 20px;
+    margin-top: 30px;
 }
 li a{
     text-decoration: none;
