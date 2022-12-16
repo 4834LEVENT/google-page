@@ -14,14 +14,14 @@ header ul li{
 .sol{
     float: left;
     margin-left: 20px;
-    margin-top: 30px;
+    margin-top: 20px;
     
     
 }
 .sağ{
     float: right;
     margin-right: 20px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 li a{
     text-decoration: none;
@@ -35,7 +35,7 @@ li a:hover{
 }
 .container2{
  
-    padding-top: 14rem ;
+    padding-top: 11rem ;
     margin-top:2.5rem;
     margin: 1.25rem;
    
@@ -85,14 +85,9 @@ li a:hover{
     text-align: center;
     height:3.1rem ;
     padding: 3.5px;
-    
-    
-    
+    margin-bottom:2px ;
 }
-#google{
-    box-shadow: 3px white; 
-    
-}
+
 .image{
     vertical-align: middle;
    
